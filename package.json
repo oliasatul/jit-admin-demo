@@ -1,0 +1,9 @@
+{
+  "name": "jit-admin-demo",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": "18.x" },
+  "dependencies": {
+    "jsonwebtoken": "9.0.2"
+  }
+}
