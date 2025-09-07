@@ -1,0 +1,8 @@
+jit-admin-demo/
+  index.html
+  package.json
+  /api
+    request-admin.js
+    whoami.js
+    admin-action.js
+    revoke.js
